@@ -46,6 +46,31 @@
 <!--   grid-snake -->
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
+### Recent repo
+</a>
+<a href="https://github.com/nnnLik/TMS_H-W">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnnLik&repo=TMS_H-W&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"">
+</a>
+
+<a href="https://github.com/nnnLik/monitoring_coingecko">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnnLik&repo=monitoring_coingecko&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"" />
+</a>
+
+<a href="https://github.com/nnnLik/tg_bot_sara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnnLik&repo=tg_bot_sara&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"" />
+</a>
+
+<a href="https://github.com/nnnLik/django_playlist_selection">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnnLik&repo=django_playlist_selection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"" />
+</a>
+
+<a href="https://github.com/nnnLik/Odoo_Custom_Addons">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnnLik&repo=Odoo_Custom_Addons&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"" />
+</a>
+<a href="https://github.com/nnnLik/social_network">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nnnLik&repo=social_network&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"" />
+</a>
+
 
 **📫 How to Reach me:**
 
