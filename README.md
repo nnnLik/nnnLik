@@ -1,15 +1,4 @@
-## Hi there 👋 I'm a Back-end developer
-
-<a href="https://t.me/oops_again">
-  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
-</a>
-<a href="https://discordapp.com/users/382181534825971713/">
-  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/makmdvra/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-</br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Back-end+Developer;+Welcome+to+My+Profile!;Always+learning+new+things+)](https://git.io/typing-svg)
 
 ## Technology stack
 
@@ -44,9 +33,29 @@
 
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
 
-## Some of my Github Stats
-<p align=center> <img src=https://komarev.com/ghpvc/?username=nnnLik alt=nnnLik /> </p>
+### 📈 GitHub Activity Graph:
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![nnnLik's github stats](https://github-readme-stats.vercel.app/api?username=nnnLik&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnLik&theme=radical&layout=compact) |
 
-![nnnLik github stats](https://github-readme-stats.vercel.app/api?username=nnnLik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nnnLik"></img>
 
-![nnnLik Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnLik&layout=compact&count_private=true&theme=gruvbox)
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   grid-snake -->
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+
+
+**📫 How to Reach me:**
+
+<a href="https://t.me/oops_again">
+  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+</a>
+<a href="https://discordapp.com/users/382181534825971713/">
+  <img align="left" alt="Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.linkedin.com/in/makmdvra/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+</br>
