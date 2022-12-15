@@ -1,4 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Back-end+Developer;+Welcome+to+My+Profile!;Always+learning+new+things+)](https://git.io/typing-svg)
+<a href="https://discord.gg/5dZPVytKnn">
+    <h3 align="center">
+        <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
+        Back-end Developer
+    </h3>
+</a>
 
 ## Technology stack
 
@@ -36,9 +41,28 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d72b1?style=flat-square&logo=JavaScript)
 
 ### 📈 GitHub Activity Graph:
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![nnnLik's github stats](https://github-readme-stats.vercel.app/api?username=nnnLik&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nnnLik&theme=radical&layout=compact) |
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nnnLik"></img>
+<p align="center">
+  <a href="https://github.com/nnnLik">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api?username=nnnLik&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+  </a>
+    
+  <a href="https://github.com/nnnLik">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-streak-stats.herokuapp.com/?user=nnnLik&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+  </a>
+  <a href="https://github.com/nnnLik">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=nnnLik&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
+    />
+  </a>
+    <a href="https://github.com/nnnLik">
+    <img align="center"
+         height="150em"
+         src="https://activity-graph.herokuapp.com/graph?username=nnnLik&custom_title=My%20Activity%20Graph!&hide_border=true&bg_color=0D1117&line=fff&point=fff&theme=github" />
+  </a>
+</p>
 
