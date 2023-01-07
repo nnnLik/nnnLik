@@ -64,12 +64,13 @@
 <p align="center">
   <a href="mailto:nnnxion@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a> &nbsp;&nbsp;
   <a href="https://t.me/oops_again" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  <a href="https://ko-fi.com/xionnnn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color-glass/512/ko-fi.png"  width="50" /></a>
   
 </p>
 
-<span class="badge-buymeacoffee">
+<!-- <span class="badge-buymeacoffee">
 <a href="https://ko-fi.com/xionnnn" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
-</span>
+</span> -->
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
