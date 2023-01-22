@@ -15,7 +15,7 @@
 ![Django](https://img.shields.io/badge/-Django-0aad48?style=flat-square&logo=Django)
 ![Django Rest Framework](https://img.shields.io/badge/DRF-red?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-%2300C7B7?style=flat-square&logo=FastAPI)
-![Flask](https://img.shields.io/badge/-Flask-%232c3e50?style=flat-square&logo=Flask)
+![Flask](https://img.shields.io/badge/-Flask-%2367C7B7?style=flat-square&logo=Flask)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![odoo](https://img.shields.io/badge/-Odoo-%2300C7B7?style=flat-square&logo=Odoo)
