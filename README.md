@@ -4,10 +4,11 @@
         Back-end Developer
     </h3>
 </a>
-
+Hi! I am a skilled Python back-end developer with experience in building and maintaining high-performance, robust server-side applications. My expertise in Python allows me to efficiently handle data processing, database management, and API development. I am familiar with popular web frameworks such as FastApi and Django and have experience working with databases such as Postgresql and MongoDB. I am also comfortable with version control using Git and have experience with Agile development methodologies. My goal is to deliver quality, scalable solutions that meet the needs of my clients.
 <h2 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <img align="right" alt="GIF" src="https://github.com/DJWOMS/DJWOMS/blob/main/code.gif?raw=true" width="500" height="320" />
+
 
 **Back-end**
 
