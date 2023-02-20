@@ -1,3 +1,7 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+RASUL;I'm+19+years+old;I+study+backend+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <a href="https://discord.gg/5dZPVytKnn">
     <h3 align="center">
         <img src="https://i.imgur.com/5XG3bRq.png" width="280"><br>
@@ -42,6 +46,7 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d72b1?style=flat-square&logo=JavaScript)
 
 ### 📈 GitHub Activity Graph:
+
 <p align="center">
   <a href="https://github.com/nnnLik">
     <img align="center"
@@ -61,19 +66,18 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
     />
 
 </p>
-
-<p align="center">
-  <a href="mailto:nnnxion@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a> &nbsp;&nbsp;
-  <a href="https://t.me/oops_again" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  <a href="https://ko-fi.com/xionnnn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color-glass/512/ko-fi.png"  width="50" /></a>
-  
+<div align="center">
+  <a href = "mailto:makhmudov_ra@vk.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/makmdvra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </a>
+  <a href="https://ko-fi.com/xionnnn" target="_blank"><img src="https://img.shields.io/badge/-Donat-%230077B5?style=for-the-badge&logo=donat&logoColor=Black" target="_blank"></a> 
+ </div>
 </p>
 
-<!-- <span class="badge-buymeacoffee">
-<a href="https://ko-fi.com/xionnnn" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
-</span> -->
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br></div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
