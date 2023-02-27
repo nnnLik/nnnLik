@@ -76,7 +76,7 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nnnLik}/count.svg" /></p> 
 <br></div>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
