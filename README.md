@@ -23,7 +23,9 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
 ![Flask](https://img.shields.io/badge/-Flask-%2367C7B7?style=flat-square&logo=Flask)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
-![odoo](https://img.shields.io/badge/-Odoo-%2300C7B7?style=flat-square&logo=Odoo)
+![Odoo](https://img.shields.io/badge/-Odoo-%2300C7B7?style=flat-square&logo=Odoo)
+![Java](https://img.shields.io/badge/-Java-FFD700?style=flat-square&logo=Java)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-F34454?style=flat-square&logo=SpringBoot)
 
 **Databases**
 
