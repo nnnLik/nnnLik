@@ -25,6 +25,7 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
 ![Odoo](https://img.shields.io/badge/-Odoo-%2300C7B7?style=flat-square&logo=Odoo)
 ![Java](https://img.shields.io/badge/-Java-FFD700?style=flat-square&logo=Java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1d72b1?style=flat-square&logo=JavaScript)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-F34454?style=flat-square&logo=SpringBoot)
 
 **Databases**
@@ -45,8 +46,7 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
 **Learning**
 
 ![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1d72b1?style=flat-square&logo=JavaScript)
-
+![Vue](https://img.shields.io/badge/-Vue-0aad48?style=flat-square&logo=Vue)
 ### 📈 GitHub Activity Graph:
 
 <p align="center">
