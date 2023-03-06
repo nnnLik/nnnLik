@@ -23,15 +23,15 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
 ![Flask](https://img.shields.io/badge/-Flask-%2367C7B7?style=flat-square&logo=Flask)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=flat-square&logo=Celery)
-![Odoo](https://img.shields.io/badge/-Odoo-%2300C7B7?style=flat-square&logo=Odoo)
-![Java](https://img.shields.io/badge/-Java-FFD700?style=flat-square&logo=Java)
+![Odoo](https://img.shields.io/badge/-Odoo-%2300C7B7?style=flat-square&logo=odoo)
+![Java](https://img.shields.io/badge/-Java-FFD700?style=flat-square&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d72b1?style=flat-square&logo=JavaScript)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-F34454?style=flat-square&logo=SpringBoot)
 
 **Databases**
 
-![Postgresql](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL)
-![MySQL](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=flat-square&logo=MySQL)
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-FCA121?style=flat-square&logo=Redis)
 
 **Tools**
