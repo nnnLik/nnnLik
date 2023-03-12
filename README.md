@@ -45,7 +45,7 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
 
 **Learning**
 
-![С#](https://img.shields.io/badge/-%D0%A1Sharp-1d72b1?style=flat-square&logo=csharp)
+![Golang](https://img.shields.io/badge/-Golang-1d72b1?style=flat-square&logo=go)
 ![Vue](https://img.shields.io/badge/-Vue-0aad48?style=flat-square&logo=Vue)
 ### 📈 GitHub Activity Graph:
 
