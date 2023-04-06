@@ -58,18 +58,18 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
   <a href="https://github.com/nnnLik">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=nnnlik&show_icons=true&theme=radical" />
+         src="https://github-readme-stats.vercel.app/api?username=nnnlik&show_icons=true&theme=aura" />
   </a>
     
   <a href="https://github.com/nnnLik">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=nnnlik&show_icons=true&theme=radical" />
+         src="https://github-readme-stats.vercel.app/api?username=nnnlik&show_icons=true&theme=aura" />
   </a>
   <a href="https://github.com/nnnLik">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnnlik&hide_progress=true&theme=radical"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnnlik&hide_progress=true&theme=aura"
     />
 
 </p>
