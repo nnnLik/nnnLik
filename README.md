@@ -57,12 +57,6 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
          height="150em"
          src="https://streak-stats.demolab.com?user=nnnLik&theme=aura&hide_border=false&border_radius=10" />
   </a>
-    
-  <a href="https://github.com/nnnLik">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=nnnlik&show_icons=true&theme=aura" />
-  </a>
 </p>
 
 <p align="center">
