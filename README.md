@@ -63,20 +63,42 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
          height="150em"
          src="https://github-readme-stats.vercel.app/api?username=nnnlik&show_icons=true&theme=aura" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/nnnLik">
     <img align="center"
          height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnnlik&hide_progress=true&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnnlik&theme=aura"
+    />
+  <a href="https://github.com/nnnLik">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nnnlik&theme=aura"
     />
 </p>
-    <p align="center">
+
+<p align="center">
+  <a href="https://github.com/nnnLik">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nnnlik&theme=solarized_dark"
+    />
+  <a href="https://github.com/nnnLik">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nnnlik&theme=aura&utcOffset=8"
+    />
+</p>
+
+<p align="center">
  <a href="https://github.com/nnnLik">
     <img align="center"
          height="150em"
-         src="https://github-readme-activity-graph.cyclic.app/graph?username=nnnLik&theme=github-compact"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnnLik&theme=aura"
     />
 </p>
-    
+
 <div align="center">
   <a href = "mailto:makhmudov_ra@vk.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/makmdvra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
