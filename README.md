@@ -82,7 +82,7 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
   <a href="https://github.com/nnnLik">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nnnlik&theme=solarized_dark"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnnlik&theme=aura"
     />
   <a href="https://github.com/nnnLik">
     <img align="center"
