@@ -23,7 +23,6 @@ Hi! I am a skilled Python back-end developer with experience in building and mai
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=for-the-badge&&logo=SqlAlchemy)
 ![Celery](https://img.shields.io/badge/-Celery-%2300C7B7?style=for-the-badge&logo=Celery)
-![Odoo](https://img.shields.io/badge/-Odoo-%2300C7B7?style=for-the-badge&&logo=odoo)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
