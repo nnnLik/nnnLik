@@ -11,7 +11,7 @@
 Hi! I am a skilled Python back-end developer with experience in building and maintaining high-performance, robust server-side applications. My expertise in Python allows me to efficiently handle data processing, database management, and API development. I am familiar with popular web frameworks such as FastApi and Django and have experience working with databases such as Postgresql and MongoDB. I am also comfortable with version control using Git and have experience with Agile development methodologies. My goal is to deliver quality, scalable solutions that meet the needs of my clients.
 <h2 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" width="500" height="320" />
 
 
 **Back-end**
